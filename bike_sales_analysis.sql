@@ -1,5 +1,3 @@
-
-```sql
 -- 1. Identify top stores and their staff counts
 WITH store_sales AS (
   SELECT
